@@ -174,8 +174,14 @@ WellBeing is a habit-forming mobile application designed for NEET and JEE aspira
 - Expand the Alerts tab with notifications and reminders.
 - Add backend support for leaderboard and subscription management.
 - Enhance Mood Meter and EQ Lessons with interactive UI and video content.
+  
+## Video(ScreenRecording)
 
 
+
+
+
+https://github.com/user-attachments/assets/28a66329-1a55-434c-bbc5-16f427418367
 
 
 
